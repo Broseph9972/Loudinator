@@ -1,6 +1,7 @@
 <img width="1920" height="1080" alt="WIN_20260514_19_28_11_Pro" src="https://github.com/user-attachments/assets/fddf3927-b9ba-4282-a487-f781fe1a3ca4" />
 <img width="1920" height="1080" alt="WIN_20260514_19_28_03_Pro" src="https://github.com/user-attachments/assets/0d6886c3-9d45-448b-8726-31b8bfd49a30" />
-
+<img width="1920" height="1080" alt="WIN_20260514_19_41_13_Pro" src="https://github.com/user-attachments/assets/8dc96770-8339-414e-9f2f-c78cca413460" />
+^^^^^ THIS STAND IS NOT PART OF THE PROJECT DONT REJECT ME BECAUSE OF THIS CARDBOARD THING I KNOW "it should feel solid, and not held up by tape, glue, and dreams."
 
 The loudinator is a one-day project with arduino that i decided to make for one of my teachers. i dont really expect it to get approved but i might as well submit. it was made to give my favorite teacher a way to show
 6th graders theyre being too loud because i hate the youth. it uses a pizeo to (kinda) get the volume of a room and turn it into a serial graph. if its under 250 its off. 250-400 is green, 400-800 is yellow and 800+ is red.
