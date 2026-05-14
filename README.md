@@ -8,3 +8,13 @@ The loudinator is a one-day project with arduino that i decided to make for one 
 Heres a wiring schematic and tinkercad design: <img width="975" height="410" alt="image" src="https://github.com/user-attachments/assets/d1fc5cfe-317d-4a79-aa55-a0629b4cea5d" />
 <img width="392" height="632" alt="image" src="https://github.com/user-attachments/assets/afe084cb-b4c5-4b26-b9fd-6c9eeeb805ab" />
 
+BOM:
+
+|Name      |Quantity|Component      |
+|----------|--------|---------------|
+|U1        |1       | Arduino Uno R3|
+|D1        |1       |Red LED        |
+|D4        |1       |Yellow LED     |
+|D5        |1       |Green LED      |
+|R6, R8, R9|3       |220 Ω Resistor |
+|PIEZO1    |1       | Piezo         |
