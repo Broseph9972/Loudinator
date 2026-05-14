@@ -1,3 +1,6 @@
+<img width="840" height="1190" alt="image" src="https://github.com/user-attachments/assets/09450c49-7b04-4319-babe-896cfcb3c3db" />
+
+
 To setup, simply upload Main.cpp to arduino IDE, plug in your arduino to your computer, and upload. setup all components like they are in the diagram/pictures, and it should work.
 
 <img width="1920" height="1080" alt="WIN_20260514_19_28_11_Pro" src="https://github.com/user-attachments/assets/fddf3927-b9ba-4282-a487-f781fe1a3ca4" />
